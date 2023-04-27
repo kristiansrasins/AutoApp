@@ -1,1 +1,5 @@
-JohnHamburger
+# Installing
+
+###Prerequisites
+
+Latest python
