@@ -2,7 +2,9 @@
 
 ### Prerequisites
 
--Latest python
+-Latest python <br>
+-Git <br>
+
 
 ### Running
 
